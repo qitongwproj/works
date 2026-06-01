@@ -1,0 +1,6 @@
+[submodule "rss-system"]
+	path = rss-system
+	url = git@github.com:qitongwproj/rss-system.git
+[submodule "social-media-downloader"]
+	path = social-media-downloader
+	url = git@github.com:qitongwproj/social-media-downloader.git

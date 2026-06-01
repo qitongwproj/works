@@ -1,0 +1,6 @@
+# Sensitive data
+cookie.txt
+
+# OS
+.DS_Store
+Thumbs.db
